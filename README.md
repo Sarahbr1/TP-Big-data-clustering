@@ -6,11 +6,11 @@
 
 ## 📋 Overview
 
-This repository contains an **academic exercise** that aims to compare the performance, scalability, and implementation complexity of K-Means clustering across two dominant computational frameworks: **Scikit-Learn** (in-memory, single-node) and **Apache Spark MLlib** (distributed computing).
+This repository contains an **academic exercise** as part of a Data Science Course. It that aims to compare the performance, scalability, and implementation complexity of K-Means clustering across two dominant computational frameworks: **Scikit-Learn** (in-memory, single-node) and **Apache Spark MLlib** (distributed computing).
 
 ## 📊 Datasets Tested
 
-We started testing the implementation logic with different size of synthetic data
+We started testing the implementation logic with different sizes of synthetic generated data ( 20k, 100k, 500k ) then we tested with these real and more complex datasets :  
 
 | Dataset | Samples | Features | Use Case |
 |---------|---------|----------|----------|
