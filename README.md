@@ -67,14 +67,6 @@ Both frameworks produce **identical Inertia values** across all tests, confirmin
 ✅ Horizontal cluster scaling needed  
 ✅ Fault tolerance critical  
 
-## 📁 Repository Structure
-
-```
-├── notebook.ipynb          # Full implementation and experiments
-├── report.md              # Comprehensive analysis report
-└── README.md              # This file
-```
-
 
 ## 📝 Key Takeaway
 
@@ -100,4 +92,4 @@ M2 TNI - Paris Saclay
 
 ---
 
-**📖 For detailed analysis, methodology, and visualizations, see the [[full report](url)].**
+**📖 For detailed analysis, methodology, and visualizations, see the [[full report]([url](https://github.com/Sarahbr1/TP-Big-data-clustering/blob/main/Report_Big_Data_Clustering.pdf))].**
